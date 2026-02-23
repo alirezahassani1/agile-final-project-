@@ -1,5 +1,5 @@
 ---
-name: User Story - Template
+name: User Story
 about: For Final Exam
 title: ''
 labels: ''
